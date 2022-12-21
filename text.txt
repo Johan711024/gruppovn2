@@ -1,2 +1,4 @@
 Johan
-Jonny GitHub Exercise 
+Jonny Github Exercise
+{Placeholder: "Christer"}
+{Placeholder: "Arshia"}
